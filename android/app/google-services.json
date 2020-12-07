@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "798037667970",
+    "firebase_url": "https://controle-carro-81517.firebaseio.com",
+    "project_id": "controle-carro-81517",
+    "storage_bucket": "controle-carro-81517.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798037667970:android:a3af64e6a9eb426a8c049b",
+        "android_client_info": {
+          "package_name": "com.example.controle_de_carro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798037667970-mdkk70ve9rin1bjr45plv4tvgd6l39s0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnUmeEKziySh9jwIuJSf9KBHvvz-qu_Ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798037667970-mdkk70ve9rin1bjr45plv4tvgd6l39s0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
